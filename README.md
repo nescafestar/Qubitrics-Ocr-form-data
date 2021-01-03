@@ -1,5 +1,4 @@
-Qubritics-Selection-Assignment
-###### <b>Task # 02:</b> 
+###### Qubritics-Selection-Assignment <br>Task #02 
 <h1>Computer Vision(OCR/ICR):</h1>
 
 ### Go to https://content.sbigeneral.in/uploads/e1904ff17d084f6582d5cc43bb6e059e.pdf
@@ -54,4 +53,5 @@ Let extract text using tesseract module.<Br>
   
 ##### FootNote:
 <h5> The  Accuracy is lower due to LOW-IMAGE-QUALITY!</h5>
-Form Filling Courtesy by [Rizwan Munawar](https://github.com/RizwanMunawar)
+Form Filling Courtesy:
+[Rizwan Munawar](https://github.com/RizwanMunawar)
