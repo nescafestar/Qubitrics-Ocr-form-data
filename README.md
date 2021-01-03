@@ -36,7 +36,7 @@ mount google drive.<Br>
 <code>drive.mount('/content/gdrive',force_remount=True)</code><br>
 
 ## <b>Step-4: Setting path for Images so that the files can be directly used</b>
-
+<code>drive.mount('/content/gdrive',force_remount=True)</code><br>
 ## <b>Step-6: Accesing image from path & Displaying via __</b> *Plt.Show()*
 <code>image_path = '/content/gdrive/MyDrive/Computer Vision Qubritics Tasks/Text extraction using OCR/Images/1.jpg'</code><br>
   
