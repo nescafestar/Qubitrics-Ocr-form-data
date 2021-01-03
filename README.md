@@ -3,7 +3,7 @@ Qubritics-Selection-Assignment
 <h1>Computer Vision(OCR/ICR):</h1>
 
 ### Go to https://content.sbigeneral.in/uploads/e1904ff17d084f6582d5cc43bb6e059e.pdf
-#### Python Tesseract library has been used for performing this task,<br>As it is one of the most widely addopted library for OCR based text classification.
+#### Python [Tesseract](https://github.com/tesseract-ocr/tesseract) library has been used for performing this task,<br>As it is one of the most widely addopted library for OCR based text classification.
 <ul>
 <li>Perform OCR on handwritten text using the above form</li>
 <li>Print the given form.</li>
@@ -54,4 +54,4 @@ Let extract text using tesseract module.<Br>
   
 ##### FootNote:
 <h5> The  Accuracy is lower due to LOW-IMAGE-QUALITY!</h5>
-[Form Filling Courtesy by Rizwan](https://github.com/RizwanMunawar")
+Form Filling Courtesy by [Rizwan Munawar](https://github.com/RizwanMunawar)
