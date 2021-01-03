@@ -3,7 +3,7 @@ Qubritics-Selection-Assignment
 <h1>Computer Vision(OCR/ICR):</h1>
 
 ### Go to https://content.sbigeneral.in/uploads/e1904ff17d084f6582d5cc43bb6e059e.pdf
-
+#### Python Tesseract library has been used for performing this task,<br>As it is one of the most widely addopted library for OCR based text classification.
 <ul>
 <li>Perform OCR on handwritten text using the above form</li>
 <li>Print the given form.</li>
@@ -40,8 +40,7 @@ mount google drive.<Br>
 ## <b>Step-6: Accesing image from path & Displaying via __</b> *Plt.Show()*
 <code>image_path = '/content/gdrive/MyDrive/Computer Vision Qubritics Tasks/Text extraction using OCR/Images/1.jpg'</code><br>
   
-##### Step-5:<Br>
-Read an image and display it.<br>
+## <b>Step-5: Read an image and display it.</b>
 <code>image_orignal=cv2.imread(image_path)</code><Br>
 <code>plt.imshow(image_orignal)</code><Br>
 <code>plt.axis("off")</code><Br>
@@ -54,4 +53,5 @@ Let extract text using tesseract module.<Br>
 <code>print(extractedInformation)</code><br>
   
 ##### FootNote:
-<h5> The system accuracy is lower due to LOW-IMAGE-QUALITY!</h5>
+<h5> The  Accuracy is lower due to LOW-IMAGE-QUALITY!</h5>
+[Form Filling Courtesy by Rizwan](https://github.com/RizwanMunawar")
