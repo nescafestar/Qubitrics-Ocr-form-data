@@ -53,5 +53,4 @@ Let extract text using tesseract module.<Br>
   
 ##### FootNote:
 <h5> The  Accuracy is lower due to LOW-IMAGE-QUALITY!</h5>
-Form Filling Courtesy:
-[Rizwan Munawar](https://github.com/RizwanMunawar)
+Form Filling Courtesy by <a href="https://github.com/RizwanMunawar">Rizwan Munawar</a>
